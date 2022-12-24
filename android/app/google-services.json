@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951830593212",
+    "project_id": "blogapp-75a9d",
+    "storage_bucket": "blogapp-75a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951830593212:android:aee2f0be7f629323c89ab9",
+        "android_client_info": {
+          "package_name": "com.tapa.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951830593212-b6o6nervrtun48qkmpu7qsc22cljir4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBNL4N6e6FATwl9E1bvVwSeN7S39-JrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951830593212-b6o6nervrtun48qkmpu7qsc22cljir4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
